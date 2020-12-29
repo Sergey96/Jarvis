@@ -1,3 +1,9 @@
 #include <stdio.h>
+#include <iostream>
 
-getchar();
+using namespace std;
+
+int main(){
+	getchar();
+	return 0;
+}
